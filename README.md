@@ -2,6 +2,7 @@
 
 ## Overview
 This Jupyter notebook is an interactive tool for natural language processing. It enables users to input text, segment it into sentences, tokenize these sentences into words, count word frequencies, timestamp the processing, and save the results for further analysis.
+![ui](https://github.com/LoQiseaking69/TextProcessor/blob/main/IMG_7062.jpeg)
 
 ## Features
 - **Sentence Segmentation**: Decomposes text into its constituent sentences.
